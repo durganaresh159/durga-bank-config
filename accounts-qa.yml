@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
-    name: "Bhushan Patil - QA Lead"
-    email: "bhushanp@eazybank.com"
+    name: "Sukesh Pimmanwar - QA Lead"
+    email: "sukeshp@eazybank.com"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
