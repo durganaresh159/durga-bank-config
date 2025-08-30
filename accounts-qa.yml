@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Durga accounts-related QA APIs "
+  message: "Welcome to Durga accounts-related DEV APIs "
   contactDetails:
     name: "Steve Richert - DEV Lead"
     email: "stever@durgabank.com"
