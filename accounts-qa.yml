@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to Durga accounts-related DEV APIs "
   contactDetails:
-    name: "Steve Richert - DEV Lead"
-    email: "stever@durgabank.com"
+    name: "Durga Naresh - DEV Lead"
+    email: "durganaresh@durgabank.com"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
