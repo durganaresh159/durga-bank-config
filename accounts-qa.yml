@@ -2,10 +2,10 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to Durga accounts-related QA APIs "
   contactDetails:
-    name: "Sukesh Pimmanwar - QA Lead"
-    email: "sukeshp@eazybank.com"
+    name: "Steve Richert - QA Lead"
+    email: "stever@eazybank.com"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
