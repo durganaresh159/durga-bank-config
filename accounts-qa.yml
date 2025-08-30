@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to Durga accounts-related QA APIs "
   contactDetails:
-    name: "Steve Richert - QA Lead"
-    email: "stever@eazybank.com"
+    name: "Steve Richert - DEV Lead"
+    email: "stever@durgabank.com"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
