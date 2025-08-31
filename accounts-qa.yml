@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Durga accounts-related DEV APIs- Web Hook Bus Refresh Updated 5"
+  message: "Welcome to Durga accounts-related DEV APIs- Web Hook Bus Refresh Updated 6"
   contactDetails:
     name: "Durga Naresh - DEV Lead"
     email: "durganaresh@durgabank.com"
